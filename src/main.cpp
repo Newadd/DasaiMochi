@@ -16,8 +16,8 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 // ========== KONFIGURASI (GANTI DENGAN PUNYA ANDA) ==========
-const char* ssid = "YOUR_WIFI_SSID";       // Ganti dengan WiFi Anda
-const char* password = "YOUR_WIFI_PASS";   // Ganti password WiFi
+const char* ssid = "Pedro";       // Ganti dengan WiFi Anda
+const char* password = "12345678";   // Ganti password WiFi
 const char* apiKey = "79ae53ad2d29c77cadfc22f9ad630dca";
 const char* city = "Nganjuk";
 const char* country = "ID";
